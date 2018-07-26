@@ -317,7 +317,7 @@ footer a {
   float: left;
   position: relative;
   width: 32%;
-  margin-left: 1%;
+  display: inline-block;
 }
 
 .wrapper .float66 {
