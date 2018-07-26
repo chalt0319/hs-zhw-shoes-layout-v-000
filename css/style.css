@@ -303,3 +303,10 @@ footer a {
 }
 
 /* code examples copyright Jonathan Grover 2012 */
+
+
+/********** Floating **********/
+
+.shadow {
+  float: left;
+}
