@@ -319,3 +319,7 @@ footer a {
   width: 32%;
   margin-left: 1%;
 }
+
+.wrapper .float66 {
+  opacity: 0;
+}
