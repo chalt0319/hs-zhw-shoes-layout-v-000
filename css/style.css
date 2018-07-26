@@ -307,7 +307,13 @@ footer a {
 
 /********** Floating **********/
 
-.float {
+.float66 {
   float: left;
   position: relative;
+  width: 66%;
+}
+.float33 {
+  float: left;
+  position: relative;
+  width: 33%;
 }
