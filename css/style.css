@@ -311,11 +311,11 @@ footer a {
   float: left;
   position: relative;
   width: 64%;
-  margin: 0%;
+  margin-right: 1%;
 }
 .float33 {
   float: left;
   position: relative;
   width: 32%;
-  margin: 0%;
+  margin-left: 1%;
 }
