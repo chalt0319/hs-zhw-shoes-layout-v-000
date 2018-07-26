@@ -307,7 +307,7 @@ footer a {
 
 /********** Floating **********/
 
-.shadow {
+.float {
   float: left;
   position: relative;
 }
