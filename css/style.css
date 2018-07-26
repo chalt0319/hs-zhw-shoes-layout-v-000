@@ -312,6 +312,7 @@ footer a {
   position: relative;
   width: 64%;
   display: inline-block;
+  margin: 0px 5px;
 }
 .float33 {
   float: left;
